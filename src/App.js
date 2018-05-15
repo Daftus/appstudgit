@@ -2,7 +2,7 @@ import React  from 'react';
 import { BrowserRouter, Switch, Route } from 'react-router-dom';
 import Header from './Header';
 import Landing from './Landing';
-import Post from './Post';
+import Post from './posts/Post';
 import './App.css';
 
 const App = () => (
